@@ -1,11 +1,28 @@
-.carousel-item {
-    height: 500px;
-} 
 
-.carousel-item img{
-    height: 500px;
+.titlesPage{
+    color: #3b4754;
 }
 
-#ImageNosotros {
-    height: 500px;
+.colorIcon{
+    color: #9fafc1;
+}
+
+.navText{
+    color: #3b4754;
+    font-weight: 630;
+}
+
+.imagePatrocinadores1{
+    width: 280px;
+    height: 80px;
+}
+
+.imagePatrocinadores2{
+    width: 250px;
+    height: 65px;
+}
+
+.imagePatrocinadores{
+    width: 200px;
+    height: 45px;
 }
